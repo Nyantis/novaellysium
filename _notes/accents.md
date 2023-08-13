@@ -2,4 +2,5 @@
 title: Bon appétit!
 ---
 
-Page titles with accents are supported.
+hey hey hey test test
+[[test]]
